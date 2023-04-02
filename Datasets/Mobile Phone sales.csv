@@ -1,0 +1,11 @@
+SLNo,Mobile Phones,Level,Processor,Price,Quanity,Sales,Deliver
+1,SAMSUNG,"""'Flagship'""",Qualcomm Snapdragon 8 Gen 2 Processor,"""79,999""",1,1,Yes
+2,MI,"""Budget""",Snapdragon 695,16500,2,10,Yes
+3,Apple,"""Flagship""",A14,100000,2,3,Yes
+4,MicroMax,Budget,NA,5500,4,4,Yes
+5,Oppo,Midlevel,Snapdragon 675,19000,2,4,Yes
+6,OnePlus,Midlevel,Snapdragon 785,23000,7,7,Yes
+7,Realme,"""Midlevel""",Snapdragon 765,17500,2,19,Yes
+8,Poco,"""Midlevel""","""Snapdragon 875""",25000,5,5,Yes
+9,realme GT Neo 3T ,"""Midlevel""",Snapdragon870,26000,7,18,Yes
+10,POCO M4 Pro ,LowLavel,Medtek Helio G95,"10,400",10,12,Yes
